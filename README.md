@@ -1,4 +1,4 @@
-# British Orienteering Fixture Data
+# British Orienteering Fixtures Data
 
 ## Open Data Endpoint
 https://www.britishorienteering.org.uk/fullfixturesjson.php - a feed of fixtures from the britishorienteering.org.uk site
